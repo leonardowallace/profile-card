@@ -41,6 +41,7 @@ div p{
     text-indent: 15px;
 }
 div.menu {
+  display: block;
   margin: auto;
   padding: 60px 125px
 }
