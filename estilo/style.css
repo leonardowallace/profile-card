@@ -66,17 +66,17 @@ div.menu {
     width: 90px;
     height: 90px;
     outline: none;
-    border: none;
+    border: #00e4ff solid;
     background: white;
-    border-radius: 90px 5px 5px 5px;
+    border-radius: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     transition: .2s ease-in-out;
   }
 
   .card1 img{
-    margin: 11px -30px 0px -9px;
-    width: 42px;
-    height: 25px;
+    margin: -1px 0px 0px -7px;
+    width: 35px;
+    height: 30px;
   }
   
   .instagram {
@@ -90,17 +90,17 @@ div.menu {
     width: 90px;
     height: 90px;
     outline: none;
-    border: none;
+    border: #00e4ff solid;
     background: white;
-    border-radius: 5px 90px 5px 5px;
+    border-radius: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     transition: .2s ease-in-out;
   }
 
   .card2 img{
-    margin: -6px 0px 0px -17px;
-    width: 55px;
-    height: 55px;
+    margin: -16px 0px 0px -18px;
+    width: 60px;
+    height: 60px;
   }
   
   .twitter {
@@ -114,17 +114,17 @@ div.menu {
     width: 90px;
     height: 90px;
     outline: none;
-    border: none;
+    border: #00e4ff solid;
     background: white;
-    border-radius: 5px 5px 5px 90px;
+    border-radius: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     transition: .2s ease-in-out;
   }
 
   .card3  img {
-    margin: -6px -30px 0px -9px;
-    width: 30px;
-    height: 30px;
+    margin: -10px 0px 0px -9px;
+    width: 45px;
+    height: 45px;
   }
   .github {
     margin-top: -.6em;
@@ -136,17 +136,17 @@ div.menu {
     width: 90px;
     height: 90px;
     outline: none;
-    border: none;
+    border: #00e4ff solid;
     background: white;
-    border-radius: 5px 5px 90px 5px;
+    border-radius: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     transition: .2s ease-in-out;
   }
 
   .card4  img {
-    margin: -6px 10px 0px -9px;
-    width: 32px;
-    height: 32px;
+    margin: -10px 0px 0px -12px;
+    width: 50px;
+    height: 50px;
   }
   
   .discord {
