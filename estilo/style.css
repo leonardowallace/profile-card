@@ -8,9 +8,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 div.cartao{
     background-image: linear-gradient(to bottom, black, #747474);
-    max-width: 550px;
-    max-height: 750px;
-    height: 80%;
+    max-width: 450px;
+    height: 100%;
     margin: 50px auto;
     border: #00e4ff solid;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.651);
@@ -42,7 +41,7 @@ div p{
     text-indent: 15px;
 }
 div.menu {
-    margin: 45px 180px;
+    margin: 45px 120px;
 }
 .main {
     display: flex;
