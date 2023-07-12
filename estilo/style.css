@@ -10,7 +10,7 @@ div.cartao{
     position: relative;
     background-image: linear-gradient(to bottom, black, #747474);
     min-width: 400px;
-    max-width: 500px;
+    max-width: 320px;
     min-height: 750px;
     height: 95vh;
     margin: auto;
