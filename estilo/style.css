@@ -9,7 +9,6 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 div.cartao{
     position: relative;
     background-image: linear-gradient(to bottom, black, #747474);
-    min-width: 400px;
     max-width: 320px;
     min-height: 750px;
     height: 95vh;
