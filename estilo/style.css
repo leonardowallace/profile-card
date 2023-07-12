@@ -15,6 +15,7 @@ div.cartao{
     height: 95vh;
     margin: auto;
     border: #00e4ff solid;
+    border-radius: 10px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.651);
 }
 div.cartao > h1{
